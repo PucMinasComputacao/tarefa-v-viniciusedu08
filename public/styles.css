@@ -1,0 +1,88 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+.cabecalho {
+    background-color: #ddd;
+    padding: 10px;
+}
+
+.menu {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.menu a {
+    margin: 5px;
+    padding: 6px 12px;
+    background-color: #eee;
+    border: 1px solid #999;
+    text-decoration: none;
+
+    border-radius: 15px; 
+}
+
+
+.logo{
+    width: 40px;
+    margin-left: 1%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+    float: left;
+}
+
+.conteudo {
+    display: flex;
+}
+
+.principal {
+    width: 75%;
+    padding: 15px;
+}
+
+.barra-lateral {
+    width: 25%;
+    background-color: #ccc;
+    padding: 10px;
+}
+
+.banner {
+    height: 200px;
+    width: 1100px;
+    margin-bottom: 15px;
+    object-fit: fill;
+}
+
+.imagem {
+    width: 200px;
+    height: 150px;
+    float: right;
+    margin-left: 10px;
+}
+
+button {
+    padding: 6px 12px;
+    border: 1px solid #999;
+    background-color: #eee;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid #999;
+}
+
+select {
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid #999;
+}
+
+.rodape {
+    background-color: black;
+    height: 40px;
+}
