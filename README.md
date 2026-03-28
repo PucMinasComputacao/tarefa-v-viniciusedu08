@@ -9,18 +9,24 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Vinicius Eduardo de Souza Matos Silva
+- Matricula: 911693
+- Proposta de projeto escolhida: 1. Pessoas e Produções
+- Breve descrição sobre seu projeto: O meu projeto consiste em um site que mostra a carreira esportiva do Neymar Jr., onde nele terá informações de sua carreira, como clubes que passou, títulos e estatísticas, mas também mostrar uma coisa que ele faz fora de campo, o seu instituto, que tem o intuito de ajudarem famílias com má condição.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
 <<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
 <<  COLOQUE A IMAGEM AQUI >>
+Tablet: 
+![alt text](image-1.png)
+
+Celular:
+![alt text](image-2.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
