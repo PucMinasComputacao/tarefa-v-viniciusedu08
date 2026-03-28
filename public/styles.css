@@ -95,3 +95,76 @@ h1{
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+@media (max-width: 768px) {
+
+    .conteudo {
+        flex-direction: column; 
+    }
+
+    .principal {
+        width: 100%;
+    }
+
+    .barra-lateral {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .banner {
+        width: 100%; 
+        height: auto;
+    }
+
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+
+@media (max-width: 480px) {
+
+    .cabecalho {
+        text-align: center;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .menu a {
+        display: block;
+        width: 100%;
+    }
+
+    .imagem {
+        float: none;
+        display: block;
+        margin: 10px auto;
+        width: 100%;
+        height: auto;
+    }
+
+    .banner {
+        width: 100%;
+        height: auto;
+    }
+
+    .logo {
+        display: block;
+        margin: 0 auto;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+}
